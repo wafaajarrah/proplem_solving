@@ -18,7 +18,7 @@ Example:
 ```
 Codeforces-Solutions/
 │
-├── 4A - Watermelon.cpp
+├── 
 └── ...
 ```
 
